@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ark0f
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ark0f.github.io
+  * I am ark0f (https://keybase.io/ark0f) on keybase.
+  * I have a public key ASB-EH8GCynGzW5jij0Zl2pAKY1FnHxcUhLQhXaw8ziOgQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207e107f060b29c6cd6e638a3d19976a40298d459c7c5c5212d08576b0f3388e810a",
+      "host": "keybase.io",
+      "kid": "01207e107f060b29c6cd6e638a3d19976a40298d459c7c5c5212d08576b0f3388e810a",
+      "uid": "e0d9d725929760c5dbca2699d06b8719",
+      "username": "ark0f"
+    },
+    "merkle_root": {
+      "ctime": 1535140776,
+      "hash": "479d70c00cfb44b5ef25c4c61075e52c24c781c386c84b50a43f107364ab1858a065ffde4aecc347a5ed176ae5fc320d0cb7395b6706695388238983856600ce",
+      "hash_meta": "d2ff07c579d0a9728ac9715a05798377e1920d1fd133317daf805b7fffcc1db7",
+      "seqno": 3512396
+    },
+    "service": {
+      "entropy": "9uSoebO34JI6LihfO8v/Oal7",
+      "hostname": "ark0f.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.1"
+  },
+  "ctime": 1535140813,
+  "expire_in": 504576000,
+  "prev": "209de02f2b0d5e2070efbd26d7e86287d09c7c00e2f4685ff3ca18fd0d6fb407",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfhB/Bgspxs1uY4o9GZdqQCmNRZx8XFIS0IV2sPM4joEKp3BheWxvYWTESpcCEMQgIJ3gLysNXiBw770m1+hih9CcfADi9Ghf88oY/Q1vtAfEICwZh5vZGzPOt8buSdwY6fQTzB83/APQbqtcz6jTVV+pAgHCo3NpZ8RAc9XHIKGnNl0nMnq5X6I9FnIfOxjOYwiwhDhQaNuzQ7zyg1oZvirrcaqdaKYyMMVwReblzC4ksPhFS4ZWlP/kBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGGsQEjU/mn3fV4dlPGUpoFhi7wTgCQr3XnhCXGXDmOco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ark0f
+
+==================================================================
